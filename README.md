@@ -1,6 +1,6 @@
 # Score Keeper Game
 
-A simple score keeper game implemented with HTML, CSS, and JavaScript as a part of a learning project. This project allows users to keep track of scores for two players in a game.
+A simple score keeper game implemented with HTML, and JavaScript as a part of a learning project. This project allows users to keep track of scores for two players in a game.
 
 ## Features
 
